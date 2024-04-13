@@ -1,13 +1,12 @@
 # OmegaHack 2024
 
-![Banner](/profile/banner.png)
+<img src="/profile/banner.png" width="100" alt="Banner">
 
 ## El Atraco
 
-
 ### Logo
 
-![profile](/profile/profile.jpeg)
+<img src="/profile/profile.jpeg" width="100" alt="Profile">
 
 ### Integrantes
 
@@ -18,4 +17,4 @@
 - Carlos Benítez Hoyos
 - Juan Manuel Young Hoyos
 
-![profile](/profile/integrantes.jpeg)
+<img src="/profile/integrantes.jpeg" width="100" alt="Integrantes">
