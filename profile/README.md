@@ -6,7 +6,7 @@
 
 ### Logo
 
-<img src="/profile/profile.jpeg" width="100" alt="Profile">
+<img src="/profile/profile.jpeg" width="500" alt="Profile">
 
 ### Integrantes
 
@@ -17,4 +17,4 @@
 - Carlos Benítez Hoyos
 - Juan Manuel Young Hoyos
 
-<img src="/profile/integrantes.jpeg" width="100" alt="Integrantes">
+<img src="/profile/integrantes.jpeg" width="500" alt="Integrantes">
