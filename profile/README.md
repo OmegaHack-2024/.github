@@ -1,6 +1,6 @@
 # OmegaHack 2024
 
-<img src="/profile/banner.png" width="100" alt="Banner">
+![Banner OmegaHack-2024](/profile/banner.png)
 
 ## El Atraco
 
