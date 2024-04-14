@@ -2,7 +2,14 @@
 
 ![Banner OmegaHack-2024](/profile/banner.png)
 
-## El Atraco
+## Repositoios
+
+Wattio-Backend : Backend FastAPI con Wattio
+Wattio-Dashboad : Front end cliente con business
+models-experiments: Entrenamiento de el modelo
+AIModel : Api fastAPI AI service deployed
+Architechre: Diagramas arquitecturales.
+
 
 ### Logo
 
@@ -16,6 +23,7 @@
 - David Fonseca Lara
 - Carlos Benítez Hoyos
 - Juan Manuel Young Hoyos
+### Repositorios 
 
 <img src="/profile/integrantes.jpeg" width="300" alt="Integrantes">
 
